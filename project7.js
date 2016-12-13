@@ -12,7 +12,7 @@ function transformPoint(event) {
 
 // Step 2: drawSquare and drawCircle functions
 function drawSquare(x, y, size, color) {
-  // square drawing code here
+  newCircle.setAtribute("cx", x)
 }
 
 // Step 3: Event listeners
